@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "JoyAniosServer (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "JoyAniosServer (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
