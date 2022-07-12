@@ -1,0 +1,3 @@
+[submodule "IOS"]
+	path = IOS
+	url = git@github.com:ray5cc/JoyAnios-IOS.git
